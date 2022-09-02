@@ -62,3 +62,6 @@ int main()
 
     return 0;
 }
+
+// Time Complexity --> O(N) + O(2E)
+// Space Complexity --> O(N) + O(N) + O(N)
